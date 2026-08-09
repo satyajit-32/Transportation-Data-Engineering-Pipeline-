@@ -37,3 +37,13 @@ The pipeline follows the Medallion Architecture:
                     │
                     ▼
              Analytics / BI
+## Technologies Used
+Databricks
+Lakeflow Spark Declarative Pipelines
+PySpark
+SQL
+AWS S3
+Delta Lake
+Unity Catalog
+Databricks Genie
+Medallion Architecture
