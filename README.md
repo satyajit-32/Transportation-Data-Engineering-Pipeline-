@@ -1,4 +1,4 @@
-# Transportation Data Pipeline – End-to-End Data Engineering Project
+# Transportation Data Pipeline 
 
 An end-to-end **Data Engineering pipeline** built for a fictional ride-hailing company, **GoodCabs**, using **Databricks, PySpark, SQL, and Lakeflow Spark Declarative Pipelines (SDP)**. The project follows the **Medallion Architecture (Bronze → Silver → Gold)** to transform raw trip and city data into clean, business-ready, region-wise analytics.
 
